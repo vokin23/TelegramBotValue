@@ -1,0 +1,303 @@
+{
+    "1": {
+        "Digital_code": "036",
+        "Letter_code": "AUD",
+        "units": "1",
+        "Currency": "Австралийский доллар",
+        "well": "59,4709"
+    },
+    "2": {
+        "Digital_code": "944",
+        "Letter_code": "AZN",
+        "units": "1",
+        "Currency": "Азербайджанский манат",
+        "well": "55,0132"
+    },
+    "3": {
+        "Digital_code": "051",
+        "Letter_code": "AMD",
+        "units": "100",
+        "Currency": "Армянских драмов",
+        "well": "23,2435"
+    },
+    "4": {
+        "Digital_code": "933",
+        "Letter_code": "BYN",
+        "units": "1",
+        "Currency": "Белорусский рубль",
+        "well": "29,2139"
+    },
+    "5": {
+        "Digital_code": "975",
+        "Letter_code": "BGN",
+        "units": "1",
+        "Currency": "Болгарский лев",
+        "well": "50,6732"
+    },
+    "6": {
+        "Digital_code": "986",
+        "Letter_code": "BRL",
+        "units": "1",
+        "Currency": "Бразильский реал",
+        "well": "18,6444"
+    },
+    "7": {
+        "Digital_code": "348",
+        "Letter_code": "HUF",
+        "units": "100",
+        "Currency": "Венгерских форинтов",
+        "well": "26,1316"
+    },
+    "8": {
+        "Digital_code": "410",
+        "Letter_code": "KRW",
+        "units": "1000",
+        "Currency": "Вон Республики Корея",
+        "well": "69,6317"
+    },
+    "9": {
+        "Digital_code": "704",
+        "Letter_code": "VND",
+        "units": "10000",
+        "Currency": "Вьетнамских донгов",
+        "well": "38,8108"
+    },
+    "10": {
+        "Digital_code": "344",
+        "Letter_code": "HKD",
+        "units": "1",
+        "Currency": "Гонконгский доллар",
+        "well": "11,9762"
+    },
+    "11": {
+        "Digital_code": "981",
+        "Letter_code": "GEL",
+        "units": "1",
+        "Currency": "Грузинский лари",
+        "well": "34,6752"
+    },
+    "12": {
+        "Digital_code": "208",
+        "Letter_code": "DKK",
+        "units": "1",
+        "Currency": "Датская крона",
+        "well": "13,2790"
+    },
+    "13": {
+        "Digital_code": "784",
+        "Letter_code": "AED",
+        "units": "1",
+        "Currency": "Дирхам ОАЭ",
+        "well": "25,4621"
+    },
+    "14": {
+        "Digital_code": "840",
+        "Letter_code": "USD",
+        "units": "1",
+        "Currency": "Доллар США",
+        "well": "93,5224"
+    },
+    "15": {
+        "Digital_code": "978",
+        "Letter_code": "EUR",
+        "units": "1",
+        "Currency": "Евро",
+        "well": "99,5534"
+    },
+    "16": {
+        "Digital_code": "818",
+        "Letter_code": "EGP",
+        "units": "10",
+        "Currency": "Египетских фунтов",
+        "well": "30,2728"
+    },
+    "17": {
+        "Digital_code": "356",
+        "Letter_code": "INR",
+        "units": "10",
+        "Currency": "Индийских рупий",
+        "well": "11,2332"
+    },
+    "18": {
+        "Digital_code": "360",
+        "Letter_code": "IDR",
+        "units": "10000",
+        "Currency": "Индонезийских рупий",
+        "well": "58,6605"
+    },
+    "19": {
+        "Digital_code": "398",
+        "Letter_code": "KZT",
+        "units": "100",
+        "Currency": "Казахстанских тенге",
+        "well": "19,5339"
+    },
+    "20": {
+        "Digital_code": "124",
+        "Letter_code": "CAD",
+        "units": "1",
+        "Currency": "Канадский доллар",
+        "well": "68,2994"
+    },
+    "21": {
+        "Digital_code": "634",
+        "Letter_code": "QAR",
+        "units": "1",
+        "Currency": "Катарский риал",
+        "well": "25,6930"
+    },
+    "22": {
+        "Digital_code": "417",
+        "Letter_code": "KGS",
+        "units": "10",
+        "Currency": "Киргизских сомов",
+        "well": "10,4705"
+    },
+    "23": {
+        "Digital_code": "156",
+        "Letter_code": "CNY",
+        "units": "1",
+        "Currency": "Китайский юань",
+        "well": "12,7660"
+    },
+    "24": {
+        "Digital_code": "498",
+        "Letter_code": "MDL",
+        "units": "10",
+        "Currency": "Молдавских леев",
+        "well": "51,2791"
+    },
+    "25": {
+        "Digital_code": "554",
+        "Letter_code": "NZD",
+        "units": "1",
+        "Currency": "Новозеландский доллар",
+        "well": "54,7574"
+    },
+    "26": {
+        "Digital_code": "934",
+        "Letter_code": "TMT",
+        "units": "1",
+        "Currency": "Новый туркменский манат",
+        "well": "26,7207"
+    },
+    "27": {
+        "Digital_code": "578",
+        "Letter_code": "NOK",
+        "units": "10",
+        "Currency": "Норвежских крон",
+        "well": "84,0598"
+    },
+    "28": {
+        "Digital_code": "985",
+        "Letter_code": "PLN",
+        "units": "1",
+        "Currency": "Польский злотый",
+        "well": "22,2699"
+    },
+    "29": {
+        "Digital_code": "946",
+        "Letter_code": "RON",
+        "units": "1",
+        "Currency": "Румынский лей",
+        "well": "20,0382"
+    },
+    "30": {
+        "Digital_code": "960",
+        "Letter_code": "XDR",
+        "units": "1",
+        "Currency": "СДР (специальные права заимствования)",
+        "well": "122,7538"
+    },
+    "31": {
+        "Digital_code": "941",
+        "Letter_code": "RSD",
+        "units": "100",
+        "Currency": "Сербских динаров",
+        "well": "85,2482"
+    },
+    "32": {
+        "Digital_code": "702",
+        "Letter_code": "SGD",
+        "units": "1",
+        "Currency": "Сингапурский доллар",
+        "well": "68,4995"
+    },
+    "33": {
+        "Digital_code": "972",
+        "Letter_code": "TJS",
+        "units": "10",
+        "Currency": "Таджикских сомони",
+        "well": "85,3369"
+    },
+    "34": {
+        "Digital_code": "764",
+        "Letter_code": "THB",
+        "units": "10",
+        "Currency": "Таиландских батов",
+        "well": "25,8724"
+    },
+    "35": {
+        "Digital_code": "949",
+        "Letter_code": "TRY",
+        "units": "10",
+        "Currency": "Турецких лир",
+        "well": "33,3584"
+    },
+    "36": {
+        "Digital_code": "860",
+        "Letter_code": "UZS",
+        "units": "10000",
+        "Currency": "Узбекских сумов",
+        "well": "76,5445"
+    },
+    "37": {
+        "Digital_code": "980",
+        "Letter_code": "UAH",
+        "units": "10",
+        "Currency": "Украинских гривен",
+        "well": "25,5772"
+    },
+    "38": {
+        "Digital_code": "826",
+        "Letter_code": "GBP",
+        "units": "1",
+        "Currency": "Фунт стерлингов Соединенного королевства",
+        "well": "114,1721"
+    },
+    "39": {
+        "Digital_code": "203",
+        "Letter_code": "CZK",
+        "units": "10",
+        "Currency": "Чешских крон",
+        "well": "40,2247"
+    },
+    "40": {
+        "Digital_code": "752",
+        "Letter_code": "SEK",
+        "units": "10",
+        "Currency": "Шведских крон",
+        "well": "85,4523"
+    },
+    "41": {
+        "Digital_code": "756",
+        "Letter_code": "CHF",
+        "units": "1",
+        "Currency": "Швейцарский франк",
+        "well": "103,6030"
+    },
+    "42": {
+        "Digital_code": "710",
+        "Letter_code": "ZAR",
+        "units": "10",
+        "Currency": "Южноафриканских рэндов",
+        "well": "49,2578"
+    },
+    "43": {
+        "Digital_code": "392",
+        "Letter_code": "JPY",
+        "units": "100",
+        "Currency": "Японских иен",
+        "well": "62,4524"
+    }
+}
